@@ -1,0 +1,19 @@
+[
+      {
+        "severity": 2,
+        "title": {
+            "en": "Emergency Maintenance Work Continues",
+            "es": "Continúa el trabajo de mantenimiento de emergencia",
+            "fr": "Les travaux de maintenance d'urgence se poursuivent"
+        },
+        "content": {
+            "en": "We have restored lines, stops, stations, and nearby departures with schedule data. Our team continues to resolve issues with real-time data.",
+            "es": "Hemos restaurado líneas, paradas, estaciones y salidas cercanas con datos de horarios. Nuestro equipo continúa resolviendo problemas con datos en tiempo real.",
+            "fr": "Nous avons restauré les lignes, les arrêts, les stations et les départs à proximité avec des données d'horaire. Notre équipe continue de résoudre les problèmes avec les données en temps réel."
+        },
+        "affects": [
+            "Catenary Maps"
+        ],
+        "key": "dt-unp-upd-9-6-24-a"
+    }
+]
