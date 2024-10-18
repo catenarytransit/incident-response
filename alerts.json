@@ -7,9 +7,9 @@
             "fr": "Migration de la base de données en cours..."
         },
         "content": {
-            "en": "No service outage is expected, but queries may be slow.",
-            "es": "No se espera ninguna interrupción del servicio, pero las consultas pueden ser lentas.",
-            "fr": "Aucune interruption de service n'est prévue, mais les requêtes peuvent être lentes."
+            "en": "A service outage is expected for some agencies, and queries may be slow.",
+            "es": "Se espera una interrupción del servicio para algunas agencias y las consultas pueden ser lentas.",
+            "fr": "Une interruption de service est prévue pour certaines agences et les requêtes peuvent être lentes."
         },
         "affects": [
             "Catenary Maps"
