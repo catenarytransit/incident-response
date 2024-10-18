@@ -1,19 +1,2 @@
 [
-      {
-        "severity": 1,
-        "title": {
-            "en": "Database migration in progress...",
-            "es": "Migración de la base de datos en curso...",
-            "fr": "Migration de la base de données en cours..."
-        },
-        "content": {
-            "en": "A service outage is expected for some agencies, and queries may be slow.",
-            "es": "Se espera una interrupción del servicio para algunas agencias y las consultas pueden ser lentas.",
-            "fr": "Une interruption de service est prévue pour certaines agences et les requêtes peuvent être lentes."
-        },
-        "affects": [
-            "Catenary Maps"
-        ],
-        "key": "mdt-10-17-24-b"
-    }
 ]
